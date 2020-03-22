@@ -1,6 +1,6 @@
 package operadores;
 
-public class Relacionais {
+public class  Relacionais {
 
   public static void main(String[] args) {
 
